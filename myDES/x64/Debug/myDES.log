@@ -1,0 +1,6 @@
+﻿  myDES.cpp
+C:\Users\Rd\Desktop\myDES\myDES.cpp(447,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Rd\Desktop\myDES\myDES.cpp(453,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Rd\Desktop\myDES\myDES.cpp(479,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Rd\Desktop\myDES\myDES.cpp(481,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  myDES.vcxproj -> C:\Users\Rd\Desktop\myDES\x64\Debug\myDES.exe
